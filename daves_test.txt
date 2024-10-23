@@ -1,1 +1,7 @@
 New file for the repository
+new save 
+git add to add to staging 
+to commit to add to commit
+to commit -m to add to commit with a message
+git status
+git push

@@ -5,3 +5,4 @@ to commit to add to commit
 to commit -m to add to commit with a message
 git status
 git push
+git commit code --wait test
